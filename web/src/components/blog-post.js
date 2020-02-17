@@ -52,7 +52,7 @@ function BlogPost (props) {
             )}
           </aside>
         </div>
-      </Container>
+        </Container>
     </article>
   )
 }
